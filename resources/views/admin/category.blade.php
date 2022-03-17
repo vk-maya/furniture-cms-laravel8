@@ -13,13 +13,11 @@
             position: relative;
             text-align: center;
         }
-
         .img-box button {
             font-size: 14px;
             color: #555555;
         }
-
-        .img-box span {
+                .img-box span {
             font-size: 10px;
         }
 
